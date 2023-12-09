@@ -26,12 +26,12 @@ class Courier:
         self.speed = speed
 
 
-class Bag:
-    def __init__(self, height, width, length):
-        self.height = height
-        self.width = width
-        self.length = length
-
+# class Bag:
+#     def __init__(self, height, width, length):
+#         self.height = height
+#         self.width = width
+#         self.length = length
+#
 
 class FootCourier(Courier):
     class Bag:
