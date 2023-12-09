@@ -14,7 +14,7 @@ class Recipient:
         self.address = address
 
 
-class Roads:
+class Road:
     def __init__(self, address1, address2, length):
         self.address1 = address1
         self.address2 = address2

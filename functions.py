@@ -1,6 +1,6 @@
 import random
 
-from classes import Parcel, Recipient, Roads
+from classes import Parcel, Recipient, Road
 
 
 def generate_random_parcel():
